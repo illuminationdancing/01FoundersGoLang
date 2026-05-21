@@ -9,12 +9,12 @@ Step 3. Install Go Lang in WSL.
 
 ## Projects
 
-### Week 1 — Fundamentals
+### Week 1 The Basics
 - Hello World
 - Variables and data types
 - Loops, range, user input and string concatenation
 
-### Week 2 — Password Strength Tester 🛡️
+### Week 2  Password Strength Tester: Developing a CyberSecurity Mindset. Personality based empathetic messaging to user.
 - Blacklist detection
 - Character type analysis
 - Security scoring system
