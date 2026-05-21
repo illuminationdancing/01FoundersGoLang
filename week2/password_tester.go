@@ -64,7 +64,10 @@ func main() {
 		score++
 	}
 
-	fmt.Println("\n--- Password Strength Report ---")
+	fmt.Println("\nI appreciate you trying to create ANOTHER password you'll need to remember.")
+	fmt.Println("The human condition is NOT designed for password generation. But tech is.")
+	fmt.Println("Here's my feedback on your password.\n")
+	fmt.Println("--- Password Strength Report ---")
 
 	if isBlacklisted {
 		fmt.Println("❌ Password is too common and easily guessed")
